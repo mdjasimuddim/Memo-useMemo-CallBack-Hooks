@@ -1,0 +1,10 @@
+{
+    "users":[
+        {
+            "id":1, "name":"Md Jasim Uddim", "email":"jasimuddim231@gmail.com"
+        },
+        {
+            "id":2, "name":"Mst. Taslima Khatun", "email":"taslimakhatun231@gmail.com"
+        }
+    ]
+}
